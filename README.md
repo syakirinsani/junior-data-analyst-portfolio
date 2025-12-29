@@ -1,56 +1,118 @@
-# Hi there, I'm Ahmad Syakirin! 👋
-### Junior Data Analyst | Turning Data into Actionable Insights
+# Hi there, I'm Ahmad Syakirin 👋  
+### Junior Data Analyst | Turning Data into Actionable Insights 📊
 
-Welcome to my data portfolio! Here, I document my journey in analyzing data, building dashboards, and solving business problems using tools like **Power BI, Tableau, SPSS, and Excel**.
+Welcome to my **Data Analytics Portfolio**.  
+This repository showcases my hands-on projects in **data analysis, visualization, and reporting**, where I transform raw data into meaningful insights that support data-driven decision making.
+
+---
+
+## 🚀 About Me
+- 🎓 Bachelor of Information Science (Library Management)
+- 📊 Strong interest in **Data Analytics & Business Intelligence**
+- 🧠 Analytical thinker with a background in information organisation and reporting
+- 🔍 Passionate about uncovering patterns, trends, and insights from data
 
 ---
 
 ## 🛠️ Technical Skills
-* **Data Visualization:** Power BI, Tableau
-* **Statistical Analysis:** SPSS
-* **Data Cleaning & Manipulation:** Excel, Python (Pandas) / SQL *[Padam jika belum ada]*
-* **Soft Skills:** Problem-solving, Storytelling with Data, Reporting
+
+### Data Analytics & Visualization
+- **Power BI** (DAX, Interactive Dashboards)
+- **Tableau** (Dashboard Design & Storytelling)
+
+### Data Analysis & Statistics
+- **SPSS** (Descriptive Statistics, T-Test, Survey Analysis)
+
+### Data Preparation
+- **Excel** (Data Cleaning, Pivot Tables, Formulas)
+- **Data Cleaning & Validation**
+
+### Soft Skills
+- Problem Solving  
+- Analytical Thinking  
+- Storytelling with Data  
+- Reporting & Documentation  
 
 ---
 
 ## 📂 Project Portfolio
 
-### 1. 📊 Power BI: Sales Performance Dashboard
-**Directory:** `/power-bi/`
-* **Objective:** Designed an interactive dashboard to track Key Performance Indicators (KPIs) for retail sales.
-* **Key Insights:** Identified top-performing regions and analyzed monthly sales trends to aid inventory planning.
-* **Tools Used:** Power BI, DAX Measures.
-* **Preview:**
-    *(Letakkan link gambar screenshot anda di sini, contohnya:)*
-    `![Sales Dashboard Screenshot](power-bi/dashboard_screenshot.png)`
+### 📊 Power BI – Sales Performance Dashboard
+📁 **Directory:** `/power-bi/`
 
-### 2. 📈 Tableau: Customer Segmentation Analysis
-**Directory:** `/tableau/`
-* **Objective:** Analyzed customer demographics to identify purchasing behaviors.
-* **Key Insights:** Segmented customers into high-value and churn-risk groups to improve marketing targeting.
-* **Tools Used:** Tableau Public.
-* **Preview:**
-    `![Tableau Dashboard Screenshot](tableau/dashboard_screenshot.png)`
+**Objective:**  
+Developed an interactive dashboard to monitor retail sales performance and key business KPIs.
 
-### 3. 🧹 Data Cleaning Project
-**Directory:** `/data-cleaning/`
-* **Objective:** Cleaned a raw dataset containing [masukkan jumlah, cth: 10,000] rows of inconsistent data.
-* **Process:** Handled missing values, removed duplicates, and standardized formats to ensure 100% data quality for analysis.
-* **Outcome:** Produced a `dataset_cleaned.csv` ready for direct analysis.
+**Key Insights:**
+- Identified top-performing regions
+- Analysed monthly sales trends
+- Supported inventory and sales planning decisions
 
-### 4. 📋 SPSS: Survey Analysis
-**Directory:** `/spss/`
-* **Objective:** Conducted statistical tests on survey data to understand [masukkan topik survey].
-* **Method:** Used Descriptive Statistics and T-Tests to validate hypotheses.
+**Tools Used:**  
+Power BI, DAX  
+
+**Preview:**  
+![Sales Dashboard Screenshot](power-bi/dashboard_screenshot.png)
+
+---
+
+### 📈 Tableau – Customer Segmentation Analysis
+📁 **Directory:** `/tableau/`
+
+**Objective:**  
+Analysed customer demographic and purchasing behaviour to support marketing strategies.
+
+**Key Insights:**
+- Segmented customers into high-value and churn-risk groups
+- Improved targeting strategy for marketing campaigns
+
+**Tools Used:**  
+Tableau Public  
+
+**Preview:**  
+![Tableau Dashboard Screenshot](tableau/dashboard_screenshot.png)
+
+---
+
+### 🧹 Data Cleaning Project
+📁 **Directory:** `/data-cleaning/`
+
+**Objective:**  
+Cleaned and prepared a raw dataset containing inconsistent and incomplete data for analysis.
+
+**Process:**
+- Handled missing values
+- Removed duplicate records
+- Standardised data formats
+
+**Outcome:**  
+Produced a clean and analysis-ready dataset (`dataset_cleaned.csv`).
+
+---
+
+### 📋 SPSS – Survey Data Analysis
+📁 **Directory:** `/spss/`
+
+**Objective:**  
+Conducted statistical analysis on survey data to understand user behaviour and perceptions.
+
+**Methods Used:**
+- Descriptive Statistics
+- T-Test Analysis
+
+**Outcome:**  
+Validated research findings and supported data-driven conclusions.
 
 ---
 
 ## 📄 Resume
-Looking for a passionate Data Analyst to join your team?
-👉 **[Download my Resume here](resume/Ahmad_Syakirin_Junior_Data_Analyst.pdf)**
+📌 Interested in working together?  
+👉 **[Download my Resume](resume/Ahmad_Syakirin_Junior_Data_Analyst.pdf)**
 
 ---
 
 ## 📫 Let's Connect!
-* **LinkedIn:** [Masukkan Link LinkedIn Anda]
-* **Email:** [Masukkan Email Anda]
+- 💼 **LinkedIn:** *(Letak link LinkedIn awak di sini)*
+- 📧 **Email:** *(Letak email profesional awak di sini)*
+
+⭐ Feel free to explore my projects and reach out for collaboration or opportunities!
